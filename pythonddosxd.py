@@ -1,4 +1,3 @@
-Phython DDOS Script, Please use at your own accord and risk. I am not responsible as I am simply sharing the code, use on your own servers for testing purposes etc, Whatever you do, its on you ;) Enjoy this script.
 import time
 import socket
 import os
